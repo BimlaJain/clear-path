@@ -23,4 +23,7 @@ document.querySelectorAll('.accordion-header').forEach((header) => {
     });
 });
 
+// aos animation js
+
+
     
