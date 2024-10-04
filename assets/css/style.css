@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&display=swap');
+
+body{
+    font-family: "Lato", sans-serif;
+}
+.font-messiri{
+    font-family: "El Messiri", sans-serif !important;
+}
+
+.card-box:hover{
+    background-color: var(--darkblue);
+    .card-text{
+        color: white;
+    }
+}
+.bg{
+    background-image: url("../images/png/blue-bg.png");
+}
+ .mission:hover path {
+    stroke: var(--darkblue);
+    fill: var(--darkblue) ;
+}
+
+ .crm path {
+    stroke: white;
+    fill: white;
+}
+ .crm:hover path {
+     stroke: var(--darkblue);
+     fill: var(--darkblue);
+ }
