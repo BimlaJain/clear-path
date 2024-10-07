@@ -2,7 +2,3 @@
     --darkblue: #1B3353;
     --lightblue: #EEFAFF;
 }
-
-.text-darkblue {
-    color: var(--blue);
-}
