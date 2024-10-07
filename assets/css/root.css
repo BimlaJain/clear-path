@@ -1,7 +1,8 @@
-:root{
-    --darkblue:#1B3353;
-    --lightblue:#EEFAFF;
+:root {
+    --darkblue: #1B3353;
+    --lightblue: #EEFAFF;
 }
-.text-darkblue{
+
+.text-darkblue {
     color: var(--blue);
 }

@@ -19,11 +19,8 @@ document.querySelectorAll('.accordion-header').forEach((header) => {
         minusIcon.classList.toggle('hidden');
         plusIcon.classList.toggle('rotate-180');
         minusIcon.classList.toggle('rotate-180');
-
     });
 });
 
-// aos animation js
 
 
-    
